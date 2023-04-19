@@ -1,5 +1,5 @@
 # BCG
-[Badge of completion for the Open-Access Data Science & Advanced Analytics Virtual Experience Program:Varun](https://www.theforage.com/badges/XaG2f3dtmExjf8Rqa/Jjq9QQuw33o887B32/Badge%20of%20completion%20for%20the%20Open-Access%20Data%20Science%20&%20Advanced%20Analytics%20Virtual%20Experience%20Program/Varun)
+[Badge of completion for the Open-Access Data Science & Advanced Analytics Virtual Experience Program:  **Varun**](https://www.theforage.com/badges/XaG2f3dtmExjf8Rqa/Jjq9QQuw33o887B32/Badge%20of%20completion%20for%20the%20Open-Access%20Data%20Science%20&%20Advanced%20Analytics%20Virtual%20Experience%20Program/Varun)
 - The BCG Open-Access Data Science &amp; Advanced Analytics Virtual Experience Program
 
 **Welcome to the Open-Access Data Science & Advanced Analytics Virtual Experience Program**
